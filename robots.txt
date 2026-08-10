@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-ayfon-s-vyvodom-deneg.github.io
+Sitemap: https://kazino-na-ayfon-s-vyvodom-deneg.github.io/sitemap.xml
